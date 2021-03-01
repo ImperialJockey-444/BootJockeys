@@ -7,3 +7,8 @@ It has been quite a while when we started learning bootstrap.The CSS framework h
 Here are the resources we have used to create this project
 
 Colors:From Adobe Color
+Fonts:From Adobe Fonts
+
+Fonts Used:
+Edwin Script - (https://fonts.adobe.com/fonts/eldwin-script#about-section):for paragraph text
+Postino-(https://fonts.adobe.com/fonts/postino#fonts-section):for headings and sub-headings
